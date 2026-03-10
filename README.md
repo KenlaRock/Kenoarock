@@ -1,8 +1,3 @@
-# New Website Bootstrap
+# Testing Ground
 
-This branch has been reset to prepare for a new website build.
-
-## Next steps
-- Choose framework/tooling
-- Initialize project scaffold
-- Implement design system and pages
+This repository is a testing ground.
